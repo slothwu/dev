@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a577d7310e7ca2046825169bf9570fc8$ -->
+<TextureAtlas imagePath="man.png">
+    <SubTexture name="m_walk_0" x="70" y="2" width="32" height="32"/>
+    <SubTexture name="m_walk_1" x="36" y="2" width="32" height="32"/>
+    <SubTexture name="m_walk_2" x="2" y="70" width="32" height="32"/>
+    <SubTexture name="m_walk_3" x="2" y="36" width="32" height="32"/>
+    <SubTexture name="m_walk_4" x="2" y="2" width="32" height="32"/>
+</TextureAtlas>
